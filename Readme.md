@@ -97,3 +97,9 @@ print("Cross Validation Accuracy:", cv.mean())
 y_pred = model.predict(X)
 cm = confusion_matrix(y, y_pred)
 print("Confusion Matrix:\n", cm)
+
+---
+
+# 👩‍💻 Author
+## Muntaha Yousaf
+- Data Science Enthusiast | Machine Learning Learner
