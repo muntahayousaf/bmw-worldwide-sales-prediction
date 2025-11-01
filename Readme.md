@@ -55,8 +55,14 @@ To build a predictive model that classifies BMW vehicles based on their sales pe
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Language:** Python
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
+- **Environment:** Jupyter Notebook / VS Code
+
 ## 🧩 Key Steps in Code
-```python
+
 # Import libraries
 import pandas as pd
 import numpy as np
